@@ -6,7 +6,7 @@
 #include <string.h>
 
 #define DATA_SIZE 256
-#define N_STATE 2
+#define N_STATE 4
 char basedir[DATA_SIZE];
 char *basedir_end = NULL;
 char content[DATA_SIZE];
